@@ -6,7 +6,7 @@ Welcome to **TeSA**, your comprehensive Data Analytics learning journey with **Q
 
 ## 📁 Folder Structure
 
-### **Python/**
+### **Python**
 Python programming fundamentals and data manipulation course materials.
 - **Class Notebooks**: Progressive lessons covering Python basics, data types, operators, control flow, functions, and data structures
 - **Topics Covered**:
@@ -19,7 +19,7 @@ Python programming fundamentals and data manipulation course materials.
 - **Data Files**: `Bank_Churn.csv` for hands-on data analysis exercises
 - **Helper Modules**: `module.py`, `user_defined_functions_v2.ipynb`
 
-### **SQL/**
+### **SQL**
 SQL database management and query optimization practice.
 - **Topics Covered**: Transaction Control Language (TCL), complex SQL queries, database operations
 - **Datasets**: 
@@ -27,7 +27,7 @@ SQL database management and query optimization practice.
   - `company database.txt` - Sample database schema
 - **Practice Files**: Multiple `.sql` scripts for hands-on learning and testing
 
-### **ML/** (Machine Learning)
+### **ML** (Machine Learning)
 Machine Learning projects and explorations.
 - **Core Projects**:
   - `Wazobia_Housing_Project.ipynb` - Regression/prediction projects
@@ -36,7 +36,7 @@ Machine Learning projects and explorations.
   - `Playground.ipynb` - Experimental ML explorations
 - **Team Assignments**: `Victory_Arogundade_Lab_003_ML_Team_1.ipynb`, `Victory_Arogundade_Playground_002_ML_Team_1.ipynb`
 
-### **Power BI/**
+### **Power BI**
 Business intelligence and data visualization projects.
 - **Datasets**:
   - **Cafe Sales** (`Cafe_Sales.csv`) - Sales analysis project
@@ -48,7 +48,7 @@ Business intelligence and data visualization projects.
   - **Superstore (2014-2017)** - Multi-year retail dataset
 - **Focus**: Dashboard creation, data storytelling, and business insights
 
-### **Excel/**
+### **Excel**
 Data preparation and preliminary analysis.
 - **Datasets**:
   - `chowdeck_mock_dataset_chunk_1.csv` - Sample market data
